@@ -1,0 +1,17 @@
+{
+  "name": "01-hello-world-mqtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "mqtt": "^2.18.8",
+    "ttn": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sille Van Landschoot <info@sillevl.be>",
+  "license": "MIT"
+}
